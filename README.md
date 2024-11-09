@@ -39,8 +39,6 @@ To use the webpage summarizer in you web browser, you can also try gradio app.
 python app/webui.py
 ```
 
-![gradio](assets/gradio.png)
-
 ## Docker
 
 ```bash
